@@ -34,7 +34,7 @@ The server is a Node.js application.
 
 3. Start the server:  `node app.js` or `nodemon app.js`
 
-The server will start on [http://localhost:5000].
+The server will start on [http://localhost:9000].
 
 
 ## Login Credentials
