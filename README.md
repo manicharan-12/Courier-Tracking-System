@@ -84,7 +84,3 @@ password3: `manicharan123`
 
 - [React](https://reactjs.org/) - The web framework used
 - [Node.js](https://nodejs.org/) - The server environment
-
-## Authors
-
-- Akshay Kumar Komakula - Initial work - [Axxxay](https://github.com/axxxay)
